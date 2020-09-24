@@ -32,4 +32,5 @@ Also, the spacing inside the Procfile should be correct eg: add space after web:
 
 > Remove the apps from Heroku(heroku apps:destroy appname) . Create new app and deploy
 
-
+### References
+1. https://towardsdatascience.com/deploy-streamlit-on-heroku-9c87798d2088
